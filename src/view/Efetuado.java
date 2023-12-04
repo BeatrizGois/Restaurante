@@ -41,7 +41,7 @@ public class Efetuado extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(255, 153, 102));
+        jPanel1.setBackground(new java.awt.Color(135, 195, 143));
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
